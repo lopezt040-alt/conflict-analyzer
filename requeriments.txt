@@ -1,0 +1,11 @@
+transformers
+torch
+detoxify
+sentencepiece
+network
+numpy
+scikit-learn
+scipy
+matplotlib
+pandas
+tqdm
